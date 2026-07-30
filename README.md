@@ -1,16 +1,72 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Patel Het</h1>
 
-<!--
-**hetkumar0707/hetkumar0707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+B.Tech Computer Engineering Student | Full Stack Developer | Machine Learning Enthusiast
+</h3>
 
-Here are some ideas to get you started:
+<img align="right" width="350" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🎓 B.Tech Computer Engineering
+- 💻 Full Stack Developer
+- 🤖 Machine Learning & AI Enthusiast
+- 🌱 Currently Learning MERN Stack & AI Agents
+- 📊 Love Data Science Projects
+- 📫 Email: your@email.com
+
+---
+
+## 💻 Languages & Tools
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,mysql,git,github,vscode" />
+
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 AI Multi-Agent Digital Twin
+AI agents working together to monitor and optimize power grid.
+
+### 💰 AI Personal Finance Manager
+Machine Learning based finance prediction.
+
+### 🚆 Railway Ticket Management System
+
+### 🚗 Car Washing Management System
+
+---
+
+## 📈 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+## 🌐 Connect with Me
+
+<p align="left">
+
+<a href="https://linkedin.com/in/YOUR_LINK">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+</p>
+
+---
+
+### 👀 Visitor Count
+
+![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
