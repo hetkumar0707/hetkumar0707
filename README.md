@@ -10,7 +10,7 @@ B.Tech Computer Engineering Student | Full Stack Developer | Machine Learning En
 
 - 🎓 B.Tech Computer Engineering
 - 💻 Full Stack Developer
-- 🌱 Currently Learning MERN Stack & AI Agents
+- 🌱 Currently Learning AI Agents
 - 📫 Email: hetkumar0707@gmail.com
 ---
 
