@@ -32,6 +32,10 @@ AI agents working together to monitor and optimize power grid.
 
 ### 🚗 Car Washing Management System
 
+
+# Spotify Clone 🎵
+
+A responsive Spotify Clone built using HTML, CSS, and JavaScript. This project recreates the core Spotify interface with interactive music controls, playlists, responsive design, and a modern user experience. It demonstrates front-end development concepts including DOM manipulation, event handling, asynchronous JavaScript, and audio playback.
 ---
 
 ## 📈 GitHub Stats
