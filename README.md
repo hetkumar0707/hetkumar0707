@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Patel Het</h1>
+<h1 align="center">Hi 👋, I'm Patel Hetkumar Sureshbhai</h1>
 
 <h3 align="center">
 B.Tech Computer Engineering Student | Full Stack Developer | Machine Learning Enthusiast
@@ -10,11 +10,8 @@ B.Tech Computer Engineering Student | Full Stack Developer | Machine Learning En
 
 - 🎓 B.Tech Computer Engineering
 - 💻 Full Stack Developer
-- 🤖 Machine Learning & AI Enthusiast
 - 🌱 Currently Learning MERN Stack & AI Agents
-- 📊 Love Data Science Projects
 - 📫 Email: hetkumar0707@gmail.com
-
 ---
 
 ## 💻 Languages & Tools
