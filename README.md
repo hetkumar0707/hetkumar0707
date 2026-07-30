@@ -13,7 +13,7 @@ B.Tech Computer Engineering Student | Full Stack Developer | Machine Learning En
 - 🤖 Machine Learning & AI Enthusiast
 - 🌱 Currently Learning MERN Stack & AI Agents
 - 📊 Love Data Science Projects
-- 📫 Email: your@email.com
+- 📫 Email: hetkumar0707@gmail.com
 
 ---
 
@@ -31,10 +31,6 @@ B.Tech Computer Engineering Student | Full Stack Developer | Machine Learning En
 
 ### 🤖 AI Multi-Agent Digital Twin
 AI agents working together to monitor and optimize power grid.
-
-### 💰 AI Personal Finance Manager
-Machine Learning based finance prediction.
-
 ### 🚆 Railway Ticket Management System
 
 ### 🚗 Car Washing Management System
