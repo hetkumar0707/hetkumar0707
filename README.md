@@ -1,4 +1,6 @@
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=297&color=gradient&text=Patel%20Hetkumar%20S&descAlignY=59&fontAlignY=39&fontAlign=48" width="100%"/>
+</div>
 <h1 align="center">Hi 👋, I'm Patel Hetkumar Sureshbhai</h1>
 
 <h3 align="center">
