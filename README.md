@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Krunal%20Pokar&fontSize=60&fontAlignY=40&animation=fadeIn" alt="Banner" width="100%"/>
+</div>
 <h1 align="center">Hi 👋, I'm Patel Hetkumar Sureshbhai</h1>
 
 <h3 align="center">
